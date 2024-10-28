@@ -2,7 +2,7 @@
 # Library Management System - Documentation
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Application](#running-the-application)
